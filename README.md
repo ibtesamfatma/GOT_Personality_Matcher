@@ -6,7 +6,7 @@ This project explores the personalities of characters in the popular TV show Gam
 
 Data 📊
 
-The data for this project is a JSON file containing character scripts from the Game of Thrones series. The data can be found on Kaggle: [invalid URL removed] والثrones-data
+The data for this project is a JSON file containing character scripts from the Game of Thrones series. The data can be found on Kaggle:https://www.kaggle.com/code/eryash15/got-personality-matcher
 
 
 Methodology 🛠️
